@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Analyzer"
+  short_description: "Analyze video topic and define creative direction."
+  default_prompt: "Use $video-topic-analyzer to analyze topic and create strategic brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Colorist"
+  short_description: "Apply color grading for consistent look."
+  default_prompt: "Use $video-colorist to ensure visual consistency through color grading."

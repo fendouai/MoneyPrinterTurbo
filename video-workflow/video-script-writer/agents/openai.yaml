@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script Writer"
+  short_description: "Write the video script following architectural blueprint."
+  default_prompt: "Use $video-script-writer to write the actual script content."

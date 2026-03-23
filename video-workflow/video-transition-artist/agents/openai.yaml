@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transition Artist"
+  short_description: "Design transitions between clips."
+  default_prompt: "Use $video-transition-artist to design smooth, storytelling transitions."

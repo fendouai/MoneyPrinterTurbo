@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thumbnail Designer"
+  short_description: "Design compelling thumbnails."
+  default_prompt: "Use $video-thumbnail-designer to create high-CTR thumbnails."

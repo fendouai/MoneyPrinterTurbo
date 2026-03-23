@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mood Director"
+  short_description: "Define emotional tone and visual atmosphere."
+  default_prompt: "Use $video-mood-director to create mood board and visual direction."

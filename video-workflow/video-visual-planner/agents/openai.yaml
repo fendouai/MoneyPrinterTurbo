@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Planner"
+  short_description: "Plan visual requirements for video."
+  default_prompt: "Use $video-visual-planner to plan all visual elements needed."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hook Craftsman"
+  short_description: "Craft powerful opening hooks that stop the scroll."
+  default_prompt: "Use $video-hook-craftsman to create compelling first-3-second hooks."

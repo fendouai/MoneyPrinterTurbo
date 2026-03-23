@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Validator"
+  short_description: "Validate footage meets requirements."
+  default_prompt: "Use $video-visual-validator to verify footage quality and licensing."

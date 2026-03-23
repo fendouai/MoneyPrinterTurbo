@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Researcher"
+  short_description: "Deep research for video content credibility."
+  default_prompt: "Use $video-content-researcher to gather facts, statistics, and supporting evidence."

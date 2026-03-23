@@ -1,0 +1,4 @@
+interface:
+  display_name: "Platform Optimizer"
+  short_description: "Optimize video for platform requirements."
+  default_prompt: "Use $video-platform-optimizer to optimize for specific platform."

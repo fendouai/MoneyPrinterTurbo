@@ -1,0 +1,4 @@
+interface:
+  display_name: "Footage Curator"
+  short_description: "Select best footage from candidates."
+  default_prompt: "Use $video-footage-curator to evaluate and select the best footage."

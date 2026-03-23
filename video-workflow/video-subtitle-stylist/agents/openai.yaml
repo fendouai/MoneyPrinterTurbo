@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subtitle Stylist"
+  short_description: "Design and apply subtitle styling."
+  default_prompt: "Use $video-subtitle-stylist to create readable, on-brand subtitles."

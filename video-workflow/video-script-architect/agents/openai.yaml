@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script Architect"
+  short_description: "Design script structure and pacing blueprint."
+  default_prompt: "Use $video-script-architect to design the structural blueprint for the script."

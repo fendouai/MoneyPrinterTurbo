@@ -1,0 +1,4 @@
+interface:
+  display_name: "Footage Scout"
+  short_description: "Search and discover stock footage."
+  default_prompt: "Use $video-footage-scout to find and collect video footage candidates."

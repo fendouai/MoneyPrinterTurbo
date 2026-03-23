@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sound Designer"
+  short_description: "Design background music and sound effects."
+  default_prompt: "Use $video-sound-designer to select and mix background audio."

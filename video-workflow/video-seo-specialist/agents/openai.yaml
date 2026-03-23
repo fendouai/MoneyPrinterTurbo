@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Specialist"
+  short_description: "Optimize video discoverability."
+  default_prompt: "Use $video-seo-specialist to maximize search discoverability."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quality Controller"
+  short_description: "Final quality control before delivery."
+  default_prompt: "Use $video-quality-controller to verify all quality standards are met."

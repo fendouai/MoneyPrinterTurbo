@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Orchestrator"
+  short_description: "Top-level workflow orchestrator for complete video production pipeline."
+  default_prompt: "Use $video-orchestrator to run the full professional video production workflow from topic to final video."

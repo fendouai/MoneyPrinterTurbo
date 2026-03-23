@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Casting"
+  short_description: "Select optimal voice for content."
+  default_prompt: "Use $video-voice-casting to select the best voice talent."

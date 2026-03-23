@@ -1,0 +1,4 @@
+interface:
+  display_name: "Timing Editor"
+  short_description: "Fine-tune video timing and pacing."
+  default_prompt: "Use $video-timing-editor to optimize clip timing to match audio."

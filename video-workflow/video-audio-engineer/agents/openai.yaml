@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audio Engineer"
+  short_description: "Execute audio synthesis and mixing."
+  default_prompt: "Use $video-audio-engineer to produce final audio mix."

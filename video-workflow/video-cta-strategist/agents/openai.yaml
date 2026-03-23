@@ -1,0 +1,4 @@
+interface:
+  display_name: "CTA Strategist"
+  short_description: "Design effective calls-to-action."
+  default_prompt: "Use $video-cta-strategist to create compelling CTAs."

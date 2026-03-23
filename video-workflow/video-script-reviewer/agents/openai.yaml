@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script Reviewer"
+  short_description: "Review script quality before production."
+  default_prompt: "Use $video-script-reviewer to evaluate and approve script quality."

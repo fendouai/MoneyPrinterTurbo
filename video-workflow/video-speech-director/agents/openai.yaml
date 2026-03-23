@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speech Director"
+  short_description: "Direct speech synthesis for natural delivery."
+  default_prompt: "Use $video-speech-director to optimize speech rate, emphasis, and pauses."
